@@ -1,0 +1,54 @@
+@media only screen and (max-width:900px){
+    body {
+      /* background: linear-gradient(90deg, #d1e1ff 0%, #3c6ef7 100%); */
+      font-family: 'Source Serif Pro', serif;
+      background-image: url(./back.jpg); 
+      background-size: auto;
+    }
+    #ayush{
+      font-size: 5vw;
+    }
+    input{
+        width: 40vw;
+      }
+      .fontsize{
+        font-size: 3.5vw;
+      }
+      #header{
+        margin-left: 30%;
+      }
+      #button{
+        padding: 1%;
+        width: 17vw;
+        font-size: 2vw;
+      }
+  } 
+  @media only screen and (max-width:500px){
+    body {
+      /* background: linear-gradient(90deg, #d1e1ff 0%, #3c6ef7 100%); */
+      font-family: 'Source Serif Pro', serif;
+      background-image: url(./back.jpg); 
+      background-size: auto;
+    }
+    #ayush{
+        margin-top: 18%;
+      font-size: 9vw;
+      margin-bottom: 5%;
+    }
+    input{
+        margin-bottom: 2%;
+        padding: 1%;
+        width: 80vw;
+      }
+      .fontsize{
+        font-size: 10vw;
+      }
+      #header{
+        margin-left: 10%;
+      }
+      #button{
+        padding: 1%;
+        width: 40vw;
+        font-size: 5vw;
+      }
+  } 

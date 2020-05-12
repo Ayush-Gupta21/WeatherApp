@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Source+Serif+Pro:wght@600&display=swap');
+
+
+
+body {
+  /* background: linear-gradient(90deg, #d1e1ff 0%, #3c6ef7 100%); */
+  font-family: 'Source Serif Pro', serif;
+  background-image: url(./back.jpg);
+  background-size: cover;
+}
+input{
+  /* border: none; */
+  border: 1.5px solid black;
+  border-radius: 5px;
+  padding: 0.5%;
+  background: transparent;
+  margin-bottom: 1%;
+  width: 30vw;
+}
+.fontsize{
+  font-size: 3.5vw;
+}
+#header{
+  margin-left: 34%;
+}
+#button{
+  padding: 1%;
+  width: 13vw;
+  font-size: 1.5vw;
+}
+
+#ayush{
+  margin-top: 4%;
+  font-family: 'Lobster', cursive;
+  letter-spacing: 5px;
+  margin-bottom: 3%;
+  font-size: 4vw;
+}
