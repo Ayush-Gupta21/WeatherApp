@@ -1,8 +1,7 @@
 @media only screen and (max-width:900px){
     body {
-      /* background: linear-gradient(90deg, #d1e1ff 0%, #3c6ef7 100%); */
       font-family: 'Source Serif Pro', serif;
-      background-image: url(./back.jpg); 
+      background-image: url(./back.jpeg); 
       background-size: auto;
     }
     #ayush{
@@ -25,9 +24,8 @@
   } 
   @media only screen and (max-width:500px){
     body {
-      /* background: linear-gradient(90deg, #d1e1ff 0%, #3c6ef7 100%); */
       font-family: 'Source Serif Pro', serif;
-      background-image: url(./back.jpg); 
+      background-image: url(./back.jpeg); 
       background-size: auto;
     }
     #ayush{
